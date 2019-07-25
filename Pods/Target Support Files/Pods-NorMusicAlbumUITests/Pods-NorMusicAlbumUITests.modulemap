@@ -1,0 +1,6 @@
+framework module Pods_NorMusicAlbumUITests {
+  umbrella header "Pods-NorMusicAlbumUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
